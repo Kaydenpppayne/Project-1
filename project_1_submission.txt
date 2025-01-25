@@ -80,4 +80,4 @@ Q78::32630
 Q79::0
 Q80::-35150
 Q81::.5
-Q82::
+Q82:: The central truss takes half (50%) of the load while the two end trusses distribute the other half (50%) evenly (25% each). 25% is half of 50% so one multiplies by .5.
